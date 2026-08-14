@@ -1,41 +1,19 @@
 # ArcPy-Spatial-Analysis
 Urban Planning Analysis through ArcPy and GIS techniques. 
 ## Project Description
-4
- 
-5
 This project demonstrates spatial analysis using ArcPy and ArcGIS Pro.
-6
- 
-7
+
 The project includes:
-8
- 
-9
 - Coordinate Transformation
-10
 - Nearest Facility Search
-11
 - Euclidean Distance Analysis
-12
 - Slope Analysis
-13
 - Raster Reclassification
-14
 - Weighted Overlay
-15
 - Optimal Site Selection
-16
- 
-17
-## Bonus Applications
-18
- 
-19
-### Healthcare Inspection Route Planning
-20
- 
-21
+Innovative Applications
+
+### Healthcare Inspection Route Planning Design
 Optimized facility inspection route using nearest neighbor approach.
 ### Hospital Site Selection
 Multi-criteria decision analysis using:
@@ -47,7 +25,7 @@ Multi-criteria decision analysis using:
 - ArcGIS Pro
 - ArcPy
 - Python (Pycharm)
-- Spatial Analyst
+- Revit
 ## Author
 Ho Siu Fai (Jacky)
-Hong Kong Polytechnic University
+Hong Kong Polytechnic University  -- Land Surveying & Geo-informatics
