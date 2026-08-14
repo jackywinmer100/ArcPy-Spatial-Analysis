@@ -37,47 +37,17 @@ The project includes:
  
 21
 Optimized facility inspection route using nearest neighbor approach.
-22
- 
-23
 ### Hospital Site Selection
-24
- 
-25
 Multi-criteria decision analysis using:
-26
- 
-27
 - Land Use
-28
 - Slope
-29
 - Transport Accessibility
-30
 - Existing Hospitals
-31
- 
-32
 ## Software Used
-33
- 
-34
 - ArcGIS Pro
-35
 - ArcPy
-36
-- Python
-37
+- Python (Pycharm)
 - Spatial Analyst
-38
- 
-39
 ## Author
-40
- 
-41
 Ho Siu Fai (Jacky)
-42
- 
-43
 Hong Kong Polytechnic University
